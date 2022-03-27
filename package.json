@@ -1,12 +1,11 @@
 {
   "name": "nendoshell",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "src/nendoshell-cli.js",
   "repository": "https://github.com/beezza/nendoshell",
   "author": "beezza <beezza@beezza.net>",
   "license": "MIT",
   "devDependencies": {
-    "electron": "^17.2.0",
-    "electron-builder": "^22.14.13"
+    "pkg": "^5.5.2"
   }
 }
